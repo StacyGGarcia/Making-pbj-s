@@ -4,11 +4,11 @@
 // Stacy
 // Task 1: Making pbj's 
 // Task 2: Find a location to make sandwich
-// Task 3: Get your choice of bread, jelly, and peanut butter
-// Task 4: Get a knife or spoon to spread 
+// Task 3: Get your choice of bread, jelly, peanut butter
+// Task 4: Get a knife or spoon to spread with 
 // Task 5: Place a slice of bread down
 // Task 6: Open container of peanut butter
 // Task 7: Use knife or spoon to get peanut butter on bread
-// Task 8: Continue to apply untill it is covered
+// Task 8: Continue to apply peanut butter until it is evenly covered
 // Task 9: Repeat Tasks 5 through 8 but replace peanutbutter with jelly
-// Task 10: Place both pieces of bread together with side with jelly and peanut butter together
+// Task 10: Place both pieces of bread together with side of jelly and peanutbutter together
